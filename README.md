@@ -1,6 +1,6 @@
 # imagenet-index-test
 
-This program is too show the index issues which appear to be in the pentathlon dataset. Getting the features for both SENet and ResNeXt from a single clip of a cat do return very different results.
+This program is too show the index issues which appear to be in the pentathlon dataset. Getting the features for both SENet and ResNeXt from a single clip of a cat do return very different results. The clip is included in the directory clips.
 
 Run this by:
 ```
